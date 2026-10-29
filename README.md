@@ -13,5 +13,3 @@ Track my progress over time
 
 The repository will grow as I learn and build more projects.
 
-
->>>>>>> upload-file-organizer
